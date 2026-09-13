@@ -1,0 +1,10 @@
+{
+  "name": "devsweep",
+  "version": "1.0.0",
+  "description": "Analyze where developer disk space went on macOS and reclaim it safely. Classifies every candidate SAFE / REVIEW / DANGEROUS, attributes artifacts to the projects that produced them, and never deletes without showing exact paths and getting approval.",
+  "author": {
+    "name": "Mustafa Arif Şişman"
+  },
+  "homepage": "https://github.com/arifsisman/devsweep",
+  "keywords": ["disk", "cleanup", "cache", "storage", "macos", "developer-tools"]
+}
